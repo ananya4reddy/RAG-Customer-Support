@@ -1,0 +1,17 @@
+Product: SupportAI Assistant
+The SupportAI Assistant is designed to help students with mechanical engineering inquiries.
+
+Refund Policy:
+We offer a full refund within 30 days of purchase for any unused educational kits. 
+To request a refund, please email support@neuronuggets.com with your order number.
+
+Office Hours:
+Our technical support team is available Monday through Friday, 9:00 AM to 5:00 PM IST. 
+Response time is typically within 24 hours.
+
+Troubleshooting Resonance Kit:
+If your Standing Wave Motor is not vibrating, ensure the power supply is set to 5V and check that the tension on the string is adjusted using the side dial.
+Outcome: The motor should begin oscillating within 5 seconds.
+
+Contact Information:
+For further assistance, reach out to us at support@neuronuggets.com or visit our help center at neuronuggets.com/help.
